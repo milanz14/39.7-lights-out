@@ -1,0 +1,7 @@
+.Board {
+    margin: 0;
+    background: white;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
